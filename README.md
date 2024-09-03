@@ -62,4 +62,4 @@ We welcome contributions! If you have suggestions for improvements or want to co
 
 ## Support
 
-For support, please open an issue on the [GitHub repository](https://github.com/your-repo/add-update-end-of-post-title) or contact the author through their website [www.viragraphics.com](http://www.viragraphics.com).
+For support, please open an issue on the [GitHub repository](https://github.com/raminmansouri/wp-dynamic-title-updater.git) or contact the author through their website [www.viragraphics.com](http://www.viragraphics.com).
