@@ -5,7 +5,6 @@ Description: Adds month name and "UPDATE" at the end of posts specified in the l
 Version: 1.3
 Author: Ramin Mansouri Pouya
 Text Domain: update-post-titles
-Domain Path: /languages
 Website: www.viragraphics.com
 */
 
